@@ -1,4 +1,5 @@
-# Protien-Shake-Vending-Machine-UI![Screenshot (924)](https://github.com/user-attachments/assets/725bee16-6ee0-4f85-967a-8b99c4225c8f)
+# Protien-Shake-Vending-Machine-UI
+![Screenshot (924)](https://github.com/user-attachments/assets/725bee16-6ee0-4f85-967a-8b99c4225c8f)
 ![Screenshot (925)](https://github.com/user-attachments/assets/4b4c4f15-5836-4fdd-ae5f-a4527de98594)
 ![Screenshot (926)](https://github.com/user-attachments/assets/3f1dc8e3-6f49-44f8-87e6-f26753985a4e)                                                                            ![Screenshot (927)](https://github.com/user-attachments/assets/b0af663d-b063-4754-a49b-fec4a53a0774)
 ![Screenshot (928)](https://github.com/user-attachments/assets/0ef5ed84-ab02-4997-a86d-bc32ffc2bfdb)
